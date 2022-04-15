@@ -1,0 +1,17 @@
+{
+    "name": "apoco_scripts_pack",
+    "displayName": "Apoco's Scripts Pack",
+    "description": "A collection of my Aseprite scripts, bundled into an extension for convenience!",
+    "version": "1.0",
+    "author": { "name": "Apocalyptapig",
+                "url": "apoco.carrd.co" },
+    "contributors": [ ],
+    "publisher": "",
+    "license": "MIT",
+    "categories": [ "Scripts" ],
+    "contributes": {
+      "scripts": [
+          { "path": "./main.lua" }
+      ]
+    }
+  }
