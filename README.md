@@ -1,7 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/Apocalyptapig/AsepriteScripts)](https://github.com/Apocalyptapig/AsepriteScripts/issues) [![GitHub license](https://img.shields.io/github/license/Apocalyptapig/AsepriteScripts)](https://github.com/Apocalyptapig/AsepriteScripts/blob/main/LICENSE) [![Custom badge](https://img.shields.io/badge/subscribe-._._.-red)](https://www.youtube.com/channel/UCD9_GtKtMeEwJtfrNckFmPw)
-# Apoco's AsepriteScripts
+[![GitHub issues](https://img.shields.io/github/issues/Apocalyptapig/AsepriteScripts)](https://github.com/Apocalyptapig/AsepriteScripts/issues) [![GitHub license](https://img.shields.io/github/license/Apocalyptapig/AsepriteScripts)](https://github.com/Apocalyptapig/AsepriteScripts/blob/main/LICENSE)
+# Apoco's Scripts Pack
 
-##### A collection of some of my (Apoco's) Aseprite scripts.
-
-
-#### If you have any issues feel free to pull up one in the issues tab and we ~~(Really only me, nightfox ehem)~~ will try to get to you asap.
+##### A collection of some of my Aseprite scripts, with the ability to be bundled into an extension for convenience.
