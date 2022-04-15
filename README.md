@@ -6,3 +6,5 @@ A collection of some of my Aseprite scripts, with the ability to be bundled into
 
 ## Extension
 In extension form, the scripts have extra functionality, showing up cleanly in menus instead of the scripts section. Installing these scripts as an extension is simple; just download the repo as a .zip, rename the extension to .aseprite-extension, and double-click to install.
+
+You can also download the .aseprite-extension file outright, but I can't guarantee it'll be as updated - it might be missing a small tweak to a script or possibly a script entirely, since I'm trying not to clutter the releases tab.
